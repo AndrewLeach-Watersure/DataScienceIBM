@@ -1,1 +1,1 @@
-# DataScienceIBM
+# Applied Data Science Capstone
